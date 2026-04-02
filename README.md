@@ -90,15 +90,15 @@ No swapping. No identity loss. Just a fox with a utility belt — ready for what
 ---
 
 ## Websites with available skills and information your bot may need:
-[Set up Google Sheets through LobeHub](https://lobehub.com/skills/openclaw-skills-google-sheets)
-[Brave Browser API](https://brave.com/search/api/)
-[Tutorial written by Janet in the HeyRon Community](https://reb-elle-art.github.io/HeyRonTutorial/index.html) - Focuses on the philosophy of working with an agent and some skills you may want to install for your agent. 
-[HeyRon Agent Library](https://github.com/heyron-ai/agent-library/tree/main) - Full of skills and personas for people to leverage
-[Speech to Text - OpenAI](https://developers.openai.com/api/docs/guides/speech-to-text)
-[LumaText - Add Speech to Text](https://lumadock.com/tutorials/openclaw-voice-tts-stt-talk-mode)
-[HeyRon Homepage](https://www.thedenheyron.com/)
-[Quick Start Guide from Catherine](https://catherinebb272.github.io/heyron-tutorial/01-start-here.html)
-[Google CLI](https://github.com/googleworkspace/cli)
+[Set up Google Sheets through LobeHub](https://lobehub.com/skills/openclaw-skills-google-sheets)  
+[Brave Browser API](https://brave.com/search/api/)  
+[Tutorial written by Janet in the HeyRon Community](https://reb-elle-art.github.io/HeyRonTutorial/index.html) - Focuses on the philosophy of working with an agent and some skills you may want to install for your agent.   
+[HeyRon Agent Library](https://github.com/heyron-ai/agent-library/tree/main) - Full of skills and personas for people to leverage  
+[Speech to Text - OpenAI](https://developers.openai.com/api/docs/guides/speech-to-text)  
+[LumaText - Add Speech to Text](https://lumadock.com/tutorials/openclaw-voice-tts-stt-talk-mode)  
+[HeyRon Homepage](https://www.thedenheyron.com/)  
+[Quick Start Guide from Catherine](https://catherinebb272.github.io/heyron-tutorial/01-start-here.html)  
+[Google CLI](https://github.com/googleworkspace/cli)  
 
 
 
