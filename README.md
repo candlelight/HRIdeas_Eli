@@ -99,6 +99,7 @@ No swapping. No identity loss. Just a fox with a utility belt — ready for what
 [HeyRon Homepage](https://www.thedenheyron.com/)  
 [Quick Start Guide from Catherine](https://catherinebb272.github.io/heyron-tutorial/01-start-here.html)  
 [Google CLI](https://github.com/googleworkspace/cli)  
+[Support](https://heyron.ai/support)
 
 
 
