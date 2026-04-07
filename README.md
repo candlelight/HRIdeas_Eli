@@ -100,7 +100,8 @@ No swapping. No identity loss. Just a fox with a utility belt — ready for what
 [Quick Start Guide from Catherine](https://catherinebb272.github.io/heyron-tutorial/01-start-here.html)  
 [Google CLI](https://github.com/googleworkspace/cli)  
 [Support](https://heyron.ai/support)  
-[Master OpenClaw in 30 Minutes](https://creatoreconomy.so/p/master-openclaw-in-30-minutes-full-tutorial?trk=public_post_comment-text) This doesn't fully work for the virtual setup we have in HeyRon (at least you don't need to do the security step). However, it's a good overview for starting out and thinking about how to set up your agent.  
+[Master OpenClaw in 30 Minutes](https://creatoreconomy.so/p/master-openclaw-in-30-minutes-full-tutorial?trk=public_post_comment-text) This doesn't fully work for the virtual setup we have in HeyRon (at least you don't need to do the security step). However, it's a good overview for starting out and thinking about how to set up your agent. 
+[Another place to get tools, skills, etc](https://apollyonsplayground.com/agent-lounge.html) 
 
 
 
